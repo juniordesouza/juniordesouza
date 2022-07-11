@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <a href="mailto:albertojunior.05@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/#" target="_blank">
+<a href="https://www.linkedin.com/in/juniordesouza/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/albertjryu" target="_blank">
