@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/juniordesouza/e153fecc3af9bd24d84050661f249c9c/raw/6f9050b2c413a3e61590a87dd884d689cd3dd0de/github-card.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/juniordesouza/a6ee49631b8211a645fdd049d59c1573/raw/ee7109b6557dfd3e419b2ab8ca4a79e233e34891/githubcardnew.svg"/>
 <h1 align="left">Hi, I'm Alberto Junior :octocat:</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordesouza&color=blue" alt="Profile views" /> </p>
 
