@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <h1 align="left">Hi, I'm Alberto Junior :octocat:</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordesouza&color=blue" alt="Profile views" /> </p>
 
-───── 𝐔𝐏𝐃𝐀𝐓𝐄 𝟎𝟎-𝟏.𝟎 ─────
-- 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆: 1st, 2nd and 3rd Module in Technical IT Programs.
-- 📚 𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈: HTML5, CSS3, JavaScript, PHP, MySql and Java.
+───── 𝐔𝐏𝐃𝐀𝐓𝐄 𝟎𝟎-𝟏.𝟎 ───── 
+- 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆: Technical IT Programs. I am attending graduate school in System Analysis and Development.
 - 💻 𝑯𝒂𝒗𝒆 𝒂𝒔 𝒐𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆:  Get in professional development.
 - 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕: Everything envolving technology. If I don't know the answer, let's find it. 
 - ⚡ 𝑭𝒖𝒏 𝒇𝒂𝒄𝒕: I love Anime. <br>
