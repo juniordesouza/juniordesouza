@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordesouza&color=blue" alt="Profile views" /> </p>
 
 ───── 𝐔𝐏𝐃𝐀𝐓𝐄 𝟎𝟎-𝟏.𝟎 ───── 
-- 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆: Technical IT Programs. I am attending graduate bachelor degree in software engineering.
 - 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕: Everything envolving technology. If I don't know the answer, let's find it. 
 - ⚡ 𝑭𝒖𝒏 𝒇𝒂𝒄𝒕: I love Anime. <br>
-
 ───── 𝐔𝐏𝐃𝐀𝐓𝐄 𝟎𝟎-𝟏.𝟎 ─────
 
 <br><br>
