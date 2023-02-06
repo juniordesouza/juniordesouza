@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/juniordesouza/a6ee49631b8211a645fdd049d59c1573/raw/ee7109b6557dfd3e419b2ab8ca4a79e233e34891/githubcardnew.svg"/>
 <h1 align="left">Hi, I'm Alberto Junior :octocat:</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordesouza&color=blue" alt="Profile views" /> </p>
 
 ───── 𝐔𝐏𝐃𝐀𝐓𝐄 𝟎𝟎-𝟏.𝟎 ───── 
-- 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆: Technical IT Programs. I am attending graduate school in System Analysis and Development.
-- 💻 𝑯𝒂𝒗𝒆 𝒂𝒔 𝒐𝒃𝒋𝒆𝒄𝒕𝒊𝒗𝒆:  Get in professional development.
+- 🎓 𝑪𝒆𝒓𝒕𝒊𝒇𝒊𝒄𝒂𝒕𝒆: Technical IT Programs. I am attending graduate bachelor degree in software engineering.
 - 💬 𝑨𝒔𝒌 𝒎𝒆 𝒂𝒃𝒐𝒖𝒕: Everything envolving technology. If I don't know the answer, let's find it. 
 - ⚡ 𝑭𝒖𝒏 𝒇𝒂𝒄𝒕: I love Anime. <br>
 
